@@ -2,6 +2,8 @@
 
 A modern, responsive landing page inspired by Apple's design language. This project showcases smooth animations, dark mode, and a clean, professional layout using only HTML, CSS, and JavaScript.
 
+🔗 **Live Demo:** [Click Here to View](https://aman-bam.github.io/Apple_landing_page/)
+
 ## Features
 
 - **Sticky Navigation Bar** with smooth scroll and mobile hamburger menu
